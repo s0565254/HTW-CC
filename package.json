@@ -9,6 +9,5 @@
         "node": ">=6.9.1"
     },
     "scripts": {
-        "start": "node 02-SimpleJsonPost.js"
-    }
+        "start": "node 03-BasicAuth.js"
 }
